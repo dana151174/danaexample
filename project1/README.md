@@ -1,0 +1,1 @@
+#QA automation Seminar information
